@@ -1,6 +1,6 @@
 # Readme
 
-GitBook contents is [here](https://uedatakeyuki.github.io/ssdp/docs/).
+GitBook contents is [here](https://uedatakeyuki.github.io/ssdp/docs/Background.html).
 
 "The Server side programming" is not a established technical term, insted, just my humble idea for the following 2 purpose.
 * Protect valuable software running on the unsecure device.
