@@ -1,6 +1,6 @@
-# Introduction
+# Background
 
-## Background
+## General Background
 In case of IoT system, we tend to face a situation that we have to use a device platform which has only poor security feature.
 For Example, removable SD CARD which can be copied by maliciou person,
 console whom password can be changed (I can easy imagine your are astonishment, but this is for resucue boot in case forgotten password).  
